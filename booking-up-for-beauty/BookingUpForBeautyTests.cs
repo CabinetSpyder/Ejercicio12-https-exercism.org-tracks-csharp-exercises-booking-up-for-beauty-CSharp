@@ -185,4 +185,5 @@ public class BookingUpForBeautyTests
     {
         Assert.Equal(new DateTime(DateTime.Now.Year, 9, 15), Appointment.AnniversaryDate());
     }
+    
 }
